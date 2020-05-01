@@ -1,0 +1,13 @@
+track COVID19_gene_annotation
+type bigBed 12 + 10
+bigDataUrl http://ftp.ebi.ac.uk/pub/databases/havana/temp/covid19_trackhub/data/COVID19_gene_annotation.bb
+shortLabel COVID19 genes
+longLabel COVID19-related gene annotation by GENCODE
+searchIndex name
+searchTrix http://ftp.ebi.ac.uk/pub/databases/havana/temp/covid19_trackhub/data/COVID19_gene_annotation.ix
+itemRgb on
+#color 0,0,255
+#baseColorDefault genomicCodons
+visibility full
+html COVID19_Hub.html
+

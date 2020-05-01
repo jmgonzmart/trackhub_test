@@ -1,0 +1,6 @@
+hub COVID19_Hub
+shortLabel COVID19 Gene Annotation
+longLabel COVID19 Gene Annotation
+genomesFile genomes.txt
+email gencode-help@ebi.ac.uk
+descriptionUrl COVID19_Hub.html
