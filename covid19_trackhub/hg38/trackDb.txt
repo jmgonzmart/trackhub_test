@@ -1,10 +1,10 @@
 track COVID19_gene_annotation
 type bigBed 12 + 10
-bigDataUrl https://github.com/jmgonzmart/trackhub_test/blob/master/covid19_trackhub/data/COVID19_gene_annotation.bb
+bigDataUrl https://raw.githubusercontent.com/jmgonzmart/trackhub_test/master/covid19_trackhub/data/COVID19_gene_annotation.bb
 shortLabel COVID19 genes
 longLabel COVID19-related gene annotation by GENCODE
 searchIndex name
-searchTrix https://github.com/jmgonzmart/trackhub_test/blob/master/covid19_trackhub/data/COVID19_gene_annotation.ix
+searchTrix https://raw.githubusercontent.com/jmgonzmart/trackhub_test/master/covid19_trackhub/data/COVID19_gene_annotation.ix
 itemRgb on
 #color 0,0,255
 #baseColorDefault genomicCodons
